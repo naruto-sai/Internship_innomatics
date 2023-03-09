@@ -1,2 +1,2 @@
-# Internship_task_python
-Python programming tasks
+# Internship_tasks
+1. Python programming tasks
